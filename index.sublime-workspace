@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"b",
+				"border-color\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"color",
+				"background-color\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"squ",
+				"squares"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"bal",
+				"ballon"
+			],
+			[
+				"text",
+				"textAlign"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"pl",
+				"placeHead"
+			],
+			[
+				"nam",
+				"nameHead"
+			],
+			[
+				"createT",
+				"createTextNode"
+			],
+			[
+				"Mo",
+				"MountainPlace"
+			],
+			[
+				"Mountain",
+				"MountainPlace"
+			],
+			[
+				"Mou",
+				"MountainHeight"
+			],
+			[
+				"create",
+				"createTextNode"
+			],
+			[
+				"mo",
+				"MountainName"
+			],
+			[
+				"a",
+				"appendChild"
+			],
+			[
+				"Mount",
+				"MOUNTAINS"
+			],
+			[
+				"crea",
+				"createTable"
+			],
+			[
+				"m",
+				"MOUNTAINS"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"tab",
+				"tableRow"
+			],
+			[
+				"MOUN",
+				"MOUNTAINS"
+			],
+			[
+				"chec",
+				"checkTransfer"
+			],
+			[
+				"check",
+				"checkBalance"
+			],
+			[
+				"che",
+				"checkTransfer"
+			],
+			[
+				"ch",
+				"checkBalance"
+			],
+			[
+				"ban",
+				"bankAcct"
+			],
+			[
+				"ac",
+				"acctType"
+			],
+			[
+				"acct",
+				"acctType"
+			],
+			[
+				"s",
+				"saveBalance"
+			],
+			[
+				"acc",
+				"acctOwner"
+			],
+			[
+				"en",
+				"endPara"
+			],
+			[
+				"e",
+				"endPara"
+			],
+			[
+				"beg",
+				"beginPara"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"todo",
+				"todoText"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"num",
+				"numOfSquares"
+			],
+			[
+				"pi",
+				"pickedColor"
+			],
+			[
+				"pick",
+				"pickColor"
+			],
+			[
+				"ge",
+				"generateRandomColors"
+			],
+			[
+				"hard",
+				"hardBtn"
+			],
+			[
+				"h",
+				"hardBtn"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"easy",
+				"easyBtn"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"g",
+				"generateRandomColors"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"click",
+				"clickedColor"
+			],
+			[
+				"r",
+				"randomColor"
+			],
+			[
+				"change",
+				"changeColors"
+			],
+			[
+				"message",
+				"messageDisplay"
+			],
+			[
+				"mess",
+				"messageDisplay"
+			],
+			[
+				"col",
+				"colorDisplay"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"p2",
+				"p2Display"
+			],
+			[
+				"t",
+				"textContent"
+			],
+			[
+				"p1",
+				"p1Display"
+			],
+			[
+				"win",
+				"winningScore"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"colo",
+				"colorChange"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ha",
+				"hasWacthed"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"ea",
+				"eachItem"
+			],
+			[
+				"new",
+				"newTodo"
+			],
+			[
+				"to",
+				"todo"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/fowle/Desktop/RGB Game/colorGame.js",
+			"settings":
+			{
+				"buffer_size": 3168,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"node app.js",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/fowle/Desktop/Server Root and Configuration",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/RGB Game/nginx.conf",
+		"/C/Users/fowle/Desktop/app.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/RGB Game/index.html",
+		"/C/Users/fowle/Desktop/artistSimplistic/app.js",
+		"/C/Users/fowle/Desktop/Templates/appPort.js",
+		"/D/Templates/Templates/artistSimplistic/app.js",
+		"/C/Users/fowle/Desktop/my-app/src/index.js",
+		"/D/Templates/Templates/artistSimplistic/cart.ejs",
+		"/D/Templates/Templates/artistSimplistic/index.html",
+		"/C/Users/fowle/Desktop/Templates/artistSimplistic/simplyArt.css",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/RGB Game/colorGame.html",
+		"/C/Users/fowle/Desktop/Templates/artistSimplistic/index.html",
+		"/C/Users/fowle/Desktop/v3/app.js",
+		"/C/Users/fowle/Desktop/my-app/src/index.css",
+		"/C/Users/fowle/Desktop/RGB Game/colorGame.js",
+		"/C/Users/fowle/Desktop/RGB Game/colorGame.css",
+		"/C/Users/fowle/Desktop/RGB Game/colorGame.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jQuery/jQuery.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jQuery/jQueryMethods.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jQuery/jQuerySelectors.js",
+		"/C/Users/fowle/Desktop/cs81/week4/10b/hide.js",
+		"/C/Users/fowle/Desktop/cs81/week4/10b/10b.html",
+		"/C/Users/fowle/Desktop/cs81/week4/10a/10a.html",
+		"/C/Users/fowle/Desktop/cs81/week4/10a/click.js",
+		"/C/Users/fowle/Desktop/cs81/week4/10a.html",
+		"/C/Users/fowle/Desktop/cs81/week4/Assig7b/nodetest1/views/helloworld.jade",
+		"/C/Users/fowle/Desktop/cs81/week4/Assig7b/nodetest1/views/userlist.jade",
+		"/C/Users/fowle/Desktop/cs81/week4/Assig7b/nodetest1/views/newuser.jade",
+		"/C/Users/fowle/Desktop/cs81/week4/Assig7b/nodetest1/routes/index.js",
+		"/C/Users/fowle/Desktop/cs81/week4/Assig7b/nodetest1/app.js",
+		"/C/Users/fowle/Desktop/cs81/week4/Assig7b/nodetest1/views/error.jade",
+		"/C/Users/fowle/Desktop/cs81/week4/Assig7b/nodetest1/package.json",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/RGB Game/app.js",
+		"/C/Users/fowle/Desktop/cs81/week4/server.js",
+		"/C/Users/fowle/Desktop/cs81/week4/package-lock.json",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/RGB Game/colorGame.js",
+		"/C/Users/fowle/Desktop/cs81/week3/prjs11_1.js",
+		"/C/Users/fowle/Desktop/cs81/week3/pr11_1.html",
+		"/C/Users/fowle/Desktop/cs81/week3/assig7b.html",
+		"/C/Users/fowle/Desktop/cs81/week3/assig7a.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/colorChanger.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/pat-ta-tap/index.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/pat-ta-tap/paper-full.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/colorChange.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/dom.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/dom.js",
+		"/C/Users/fowle/Desktop/cs81/week3/ans.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/this.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/annoy.js",
+		"/C/Users/fowle/Desktop/cs81/week 2/inheritance.js",
+		"/C/Users/fowle/Desktop/cs81/week 2/bankAct.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/forLoops.js",
+		"/C/Users/fowle/Desktop/cs81/week 1/tri.js",
+		"/C/Users/fowle/Desktop/cs81/week 1/assig5b.js",
+		"/C/Users/fowle/Desktop/cs81/week 1/assig5a.js",
+		"/C/Users/fowle/Desktop/cs81/week 1/explainCode.js",
+		"/C/Users/fowle/Desktop/cs81/week 1/longWord.js",
+		"/C/Users/fowle/Desktop/cs81/week 1/fizzBuzz3a.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/scoreKeeper.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/logic.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/logic.js",
+		"/C/Users/fowle/Desktop/cs81/week 1/pr3_2.js",
+		"/C/Users/fowle/Desktop/cs81/week 1/pr3_2.html",
+		"/C/Users/fowle/Desktop/cs81/week 1/pr3_1.js",
+		"/C/Users/fowle/Desktop/cs81/week 1/pr3_1.html",
+		"/C/Users/fowle/Desktop/cs81/myScript.js",
+		"/C/Users/fowle/Desktop/cs81/myHTML.html",
+		"/C/Users/fowle/Desktop/cs81/firstScript.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/RGB Game/colorGame.css",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/colorChange.css",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/todo.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/functions.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/pat-ta-tap/circles.css",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/todo.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jsMethods.js",
+		"/C/Users/fowle/Downloads/patatapCloneSolutionFiles/CodeAlong 4/data.js",
+		"/C/Users/fowle/Downloads/PaperJSExercise/Exercise/circles.css",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jQuery/todo_list_project/index.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jQuery/todo_list_project/assets/js/todo.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jQuery/todo_list_project/assets/css/todo.css",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jQuery/todo_list_project/todo.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jQuery/todo.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jQuery/todo.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/jQuery/jQueryMethods.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/scoreKeeper.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/scoreKeeper.css",
+		"/C/Users/fowle/Desktop/Web/wordpress/wp-content/themes/Custom/style.css",
+		"/C/Users/fowle/Desktop/Web/wordpress/wp-config.php",
+		"/C/Users/fowle/Desktop/Web/wordpress/wp-content/themes/Custom/index.php",
+		"/C/Users/fowle/Desktop/Web/wordpress/wp-content/themes/Custom/colorGame.css",
+		"/C/Users/fowle/Desktop/Soul_Below/learnPhp/RGB Game/index.php",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/colorGame.css",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/colorGame.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/colorGame.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/annoy2.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/array.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/movieDB.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/movieDB.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/annoy.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Site/css/myCss.css",
+		"/C/Users/fowle/Desktop/Soul_Below/Site/index.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/whileLoops.js",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/index.html",
+		"/C/Users/fowle/Desktop/Soul_Below/Colt's class/scroll.js",
+		"/C/Users/fowle/Desktop/Soul_Below/index.html",
+		"/C/Users/fowle/Desktop/Soul_Below/scroll.js"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 208.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"urls",
+			"textecoration"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/fowle/Desktop/RGB Game/colorGame.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2288,
+								2288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\fowle\\Desktop\\Soul_Below\\Colt's class\\scoreKeeper.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
